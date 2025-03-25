@@ -1,6 +1,3 @@
-Data-Driven Excellence in Order Fulfilment: Excel Dashboards to Vanquish Backlogs
-This project revolutionises order fulfilment processes for Streamline Logistics Solutions using Excel dashboards. It addresses backlogs, enhances visibility, optimises resource allocation, and elevates customer satisfaction.
-
 Business Overview/Problem
 Business Introduction 
 
