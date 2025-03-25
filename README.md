@@ -1,10 +1,10 @@
-Business Introduction
+# Business Introduction
 
 Streamline Logistics Solutions is a distinguished and long-standing player in the supply chain and logistics industry, with a rich history dating back over two decades. We have built our reputation on a commitment to delivering exceptional service, characterised by the swift and dependable delivery of a wide array of products to customers nationwide.
 
 Our company stands as a pillar of reliability, ensuring that businesses and consumers alike can count on us to transport their goods efficiently and with care. However, even as we continue to flourish, we find ourselves facing a pressing operational challenge that demands innovative solutions to uphold our unwavering commitment to service excellence.
 
-Business Problem
+## Business Problem
 
 At Streamline Logistics Solutions, we encounter several pressing challenges within our order fulfilment process:
 
@@ -16,7 +16,7 @@ Customer Frustration: The increasing frequency of customer complaints regarding 
 
 Escalating Costs: Operational expenses are on the rise due to overtime payments and the necessity for expedited shipping to clear order backlogs.
 
-Rationale for the Project
+## Rationale for the Project
 
 Order Fulfilment is the process of receiving, processing, and delivering customer orders. It involves activities such as inventory management, order processing, picking and packing products, and shipping them to customers.
 
@@ -34,7 +34,7 @@ Data-Driven Insights: Harnessing data-driven insights empowers us to optimise re
 
 Reputation Management: Addressing these operational challenges is paramount to preserving Streamline Logistics Solutions' sterling reputation for delivering excellence consistently.
 
-Aim of the Project
+## Aim of the Project
 
 This project's primary objectives are to develop an Excel interactive dashboard that provides unparalleled visibility into our order fulfilment processes. Through this, we aim to:
 
@@ -48,7 +48,7 @@ Reduce order backlogs and operational costs.
 
 Elevate overall customer satisfaction and safeguard our reputation as an industry leader.
 
-Data Description
+## Data Description
 
 This case study contains a single dataset and it comprises of:
 
@@ -70,7 +70,7 @@ Delivery Time: The total time taken for delivery, measured in minutes (e.g., "12
 
 Delays: Any delays that occurred during the delivery, measured in minutes (e.g., "15 min").
 
-Tech Stack
+## Tech Stack
 
 Tool: Microsoft Excel
 
@@ -82,7 +82,7 @@ Data Processing Tools: Leveraging Excel's data manipulation and analysis functio
 
 Visualisation Tools: Employing Excel's charts, graphs, and pivot tables for order and delivery data visualisation.
 
-Project Scope
+## Project Scope
 
 Data Preprocessing: Rigorous data formatting, and preparation for analysis, addressing any data anomalies.
 
