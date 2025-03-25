@@ -1,11 +1,11 @@
-Business Overview/Problem
-Business Introduction 
+#Business Overview/Problem
+##Business Introduction 
 
-Streamline Logistics Solutions is a distinguished and long-standing player in the supply chain and logistics industry, with a rich history dating back over two decades. We have built our reputation on a commitment to delivering exceptional service, characterised by the swift and dependable delivery of a wide array of products to customers nationwide.
+  Streamline Logistics Solutions is a distinguished and long-standing player in the supply chain and logistics industry, with a rich history dating back over two decades. We have built our reputation on a commitment to delivering exceptional service, characterised by the swift and dependable delivery of a wide array of products to customers nationwide.
  
-Our company stands as a pillar of reliability, ensuring that businesses and consumers alike can count on us to transport their goods efficiently and with care. However, even as we continue to flourish, we find ourselves facing a pressing operational challenge that demands innovative solutions to uphold our unwavering commitment to service excellence.
+  Our company stands as a pillar of reliability, ensuring that businesses and consumers alike can count on us to transport their goods efficiently and with care. However, even as we continue to flourish, we find ourselves facing a pressing operational challenge that demands innovative solutions to uphold our unwavering commitment to service excellence.
  
-Business Problem 
+##Business Problem 
  
 At Streamline Logistics Solutions, we encounter several pressing challenges within our order fulfillment process:
  
@@ -30,7 +30,7 @@ Order fulfilment is the linchpin of our operations in the Logistics and Supply C
 •	✓ Data-Driven Insights: Harnessing data-driven insights empowers us to optimise resource allocation and routing, ensuring timely deliveries and improved resource management.
  
 •	✓ Reputation Management: Addressing these operational challenges is paramount to preserving Streamline Logistics Solutions' sterling reputation for delivering excellence consistently.
-Aim of the Project
+##Aim of the Project
 This project's primary objectives are to develop an Excel interactive dashboard that provides unparalleled visibility into our order fulfillment processes. Through this, we aim to:
  
 •	✓ Efficiently allocate delivery resources based on order volume and location.
@@ -38,7 +38,7 @@ This project's primary objectives are to develop an Excel interactive dashboard 
 •	✓ Enhance customer communication with timely delivery status updates.
 •	✓ Reduce order backlogs and operational costs.
 •	✓ Elevate overall customer satisfaction and safeguard our reputation as an industry leader.
-Data Description
+##Data Description
 This case study contains a single dataset and it comprises of;
  
 •	✓ Order ID: A unique identifier for each customer order.
@@ -50,13 +50,13 @@ This case study contains a single dataset and it comprises of;
 •	✓ Current Location: The current location of the delivery driver during order delivery.
 •	✓ Delivery Time: The total time taken for delivery, measured in minutes (e.g., "120 min").
 •	✓ Delays: Any delays that occurred during the delivery, measured in minutes (e.g., "15 min").
-Tech Stack
+##Tech Stack
 Tool– Microsoft Excel
 USE;
 Utilised for creating the interactive dashboard, data visualisation, and reporting.
 Data Processing Tools: Leveraging Excel's data manipulation and analysis functions.
 Visualisation Tools: Employing Excel's charts, graphs, and pivot tables for order and delivery data visualisation.
-Project Scope
+##Project Scope
  
 •	✓ Data Preprocessing: Rigorous data formatting, and preparation for analysis, addressing any data anomalies.
 •	✓ Exploratory Data Analysis: This involves statistical analysis, data visualisation, and other exploratory techniques to identify patterns, correlations, anomalies, and potential issues in the data.
